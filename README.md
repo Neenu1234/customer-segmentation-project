@@ -454,9 +454,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions, suggestions, or collaboration opportunities:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: santhosh.n@northeastern.edu
+- **LinkedIn**: [Dr. Neenu Rachel Santhosh](https://www.linkedin.com/in/dr-neenu-rachel-santhosh-568a251b6/)
 
 ---
 
